@@ -18,8 +18,6 @@ Currently, I'm part of [TaskRabbit](https://www.taskrabbit.com/) as a Senior Fro
 
 ---
 
----
-
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bill-pairaktaridis&hide=java,html,css&theme=default)](https://github.com/anuraghazra/github-readme-stats)
