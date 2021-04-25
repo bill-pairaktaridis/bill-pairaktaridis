@@ -4,7 +4,7 @@
 
 I'm a software engineer based in Athens, Greece with over 11 years of experience. I've worked all ends of the stack, from back to front to back again! 
 
-Nowadays I primarily focus on the front-end, with a heavy focus on React and React Native. I also like to play around with Python and Django (as I am a perfectionist with deadlines).
+Nowadays I primarily focus on the front-end, with a heavy focus on React and React Native. I also like to play around with Python and Django (as I am a perfectionist with deadlines), as well as Ruby on Rails.
 
 I'm also part of [Braintrust](https://app.usebraintrust.com/talent/3258/), a premium talent platform built on the blockchain. 
 
@@ -14,7 +14,8 @@ Currently, I'm part of [TaskRabbit](https://www.taskrabbit.com/) as a Senior Fro
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" alt="ESLint Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next JS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" alt="ESLint Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next JS Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" height="50"/>&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" alt="Rails Logo" height="50"/>
+
 
 ---
 
