@@ -1,5 +1,15 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />, I'm Bill!
 
+![GitHub followers](https://img.shields.io/github/followers/bill-pairaktaridis?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/Bill_Pair?style=social) ![LinkedIn](https://img.shields.io/badge/-Find%20me%20on%20LinkedIn-%230A66C2?logo=linkedin)
+
+I'm a software engineer based in Athens, Greece with over 11 years of experience. I've worked all ends of the stack, from back to front to back again! 
+
+Nowadays I primarily focus on the front-end, with a heavy focus on React and React Native. I also like to play around with Python and Django (as I am a perfectionist with deadlines).
+
+I'm also part of [Braintrust](https://app.usebraintrust.com/talent/3258/), a premium talent platform built on the blockchain. 
+
+Currently, I'm part of [TaskRabbit](https://www.taskrabbit.com/) as a Senior Front-End Engineer.
+
 <!--
 **bill-pairaktaridis/bill-pairaktaridis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
