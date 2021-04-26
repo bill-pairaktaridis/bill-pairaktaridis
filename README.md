@@ -24,3 +24,7 @@ Currently, I'm part of [TaskRabbit](https://www.taskrabbit.com/) as a Senior Fro
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bill-pairaktaridis&hide=java,html,css&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Bill's GitHub stats](https://github-readme-stats.vercel.app/api?username=bill-pairaktaridis&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## ☕ Buy me a coffee -> [Here](https://buymeacoffee.com/billpair)
