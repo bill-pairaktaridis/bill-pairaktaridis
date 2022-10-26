@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **me@billpair.com**
 
+- 📚 I've also written a [guide on how to become a kickass remote freelancer](https://billpairaktaridis.gumroad.com/l/DHVewj)!
+
 - ⚡ Fun fact **I love dogs, lifting weights and baking!**
 
 <h3 align="left">Connect with me:</h3>
